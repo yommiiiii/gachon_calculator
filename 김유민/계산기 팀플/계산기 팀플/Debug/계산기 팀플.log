@@ -1,0 +1,8 @@
+﻿  소스1.cpp
+소스1.obj : error LNK2005: "void __cdecl Results(int,int)" (?Results@@YAXHH@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스1.obj : error LNK2005: "int __cdecl add(int,int)" (?add@@YAHHH@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스1.obj : error LNK2005: "int __cdecl divide(int,int)" (?divide@@YAHHH@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스1.obj : error LNK2005: "int __cdecl multiply(int,int)" (?multiply@@YAHHH@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스1.obj : error LNK2005: "int __cdecl subtract(int,int)" (?subtract@@YAHHH@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스1.obj : error LNK2005: _main이(가) 소스.obj에 이미 정의되어 있습니다.
+C:\Users\kimyu\source\repos\계산기 팀플\Debug\계산기 팀플.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
