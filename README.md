@@ -1,5 +1,6 @@
 # gachon_calculator
 
+
 각자의 소스코드에서 수정해야 하는 부분/구현 못한 부분을 gitihub issue에 적어뒀습니다.
 issue에 적힌 부분을 gachon_calculator 소스코드에 작성해서 깃허브에 올리면 됩니다.
 
